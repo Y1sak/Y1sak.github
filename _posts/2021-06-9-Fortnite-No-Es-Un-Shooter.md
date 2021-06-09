@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fortnite No Es Un Shooter
-subtitle: Fuente: Arial
+subtitle: "Fuente: Arial"
 comments: true
 cover-img: /assets/img/Fortnite-Wallpaper.jpg
 thumbnail-img: /assets/img/Fortnite-Wallpaper.jpg
