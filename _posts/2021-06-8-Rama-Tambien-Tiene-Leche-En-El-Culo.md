@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rama Tambien Tiene Leche En El Culo
-subtitle: (Pruebas)
+title: "Rama Tambien Tiene Leche En El Culo"
+subtitle: "(Pruebas)"
 comments: true
 tags: [Rama, Gordo, Teton, Leche]
 ---
