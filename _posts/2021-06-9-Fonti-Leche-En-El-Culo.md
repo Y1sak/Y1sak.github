@@ -7,7 +7,7 @@ description: ""
 cover-img: ""
 thumbnail-img: ""
 share-img: ""
-tags: [rama, gordo, teton]
+tags: [Fonti, Gordo, Teton, Clara]
 ---
 
 A Fonti claramente le gusta la leche en la cola. Por lo tanto sale a ver peliculas con la hermana.
