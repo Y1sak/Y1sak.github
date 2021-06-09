@@ -3,10 +3,6 @@ layout: post
 title: Rama Tambien Tiene Leche En El Culo
 subtitle: (Pruebas)
 comments: true
-description: ""
-cover-img: ""
-thumbnail-img: ""
-share-img: ""
 tags: [Rama, Gordo, Teton, Leche]
 ---
 
