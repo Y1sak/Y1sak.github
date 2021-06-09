@@ -3,9 +3,9 @@ layout: post
 title: "Matias Kosinski Es Un Programador Oficial"
 subtitle: "Fuente: Arial"
 comments: true
-cover-img: /assets/img/Messi-Facha.jpg.jpg
+cover-img: /assets/img/Messi-Facha.jpg
 thumbnail-img: /assets/img/
-share-img: /assets/img/Messi-Facha.jpg.jpg
+share-img: /assets/img/Messi-Facha.jpg
 tags: [Matias, Kosinski, Programador]
 ---
 
