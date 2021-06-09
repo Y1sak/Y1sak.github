@@ -8,6 +8,6 @@ tags: [Rama, Gordo, Teton, Leche]
 
 Mira anime.
 
-![Ramamacaco](/assets/img/ramamacaco.png)
+![Ramamacaco](/assets/img/ramamacaco.png){: .mx-auto.d-block :}
 
-![Hentai](/assets/img/Hentai.gif)
+![Hentai](/assets/img/Hentai.gif){: .mx-auto.d-block :}
