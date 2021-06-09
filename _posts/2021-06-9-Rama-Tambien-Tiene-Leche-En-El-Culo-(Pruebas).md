@@ -7,7 +7,7 @@ description: ""
 cover-img: ""
 thumbnail-img: ""
 share-img: ""
-tags: [rama, gordo, teton]
+tags: [Rama, Gordo, Teton, Leche]
 ---
 
 Mira anime.
