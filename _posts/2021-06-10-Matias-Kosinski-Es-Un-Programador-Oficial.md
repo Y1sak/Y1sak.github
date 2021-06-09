@@ -5,7 +5,7 @@ subtitle: "Fuente: Arial"
 comments: true
 cover-img: "/assets/img/Messi-Facha.jpg"
 thumbnail-img: "/assets/img/Kosinski.jpg"
-share-img: "/assets/img/Messi-Facha.jpg"
+share-img: "/assets/img/Kosinski.jpg"
 tags: [Matias, Kosinski, Programador]
 ---
 
