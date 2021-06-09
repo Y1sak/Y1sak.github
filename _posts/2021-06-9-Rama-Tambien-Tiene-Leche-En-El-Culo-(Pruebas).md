@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Rama Tambien Tiene Leche En El Culo (Pruebas)
+title: Rama Tambien Tiene Leche En El Culo
 subtitle: (Pruebas)
 comments: true
 description: ""
 cover-img: ""
 thumbnail-img: ""
 share-img: ""
-tags: [books, test]
+tags: [rama, gordo, teton]
 ---
 
 Mira anime.
