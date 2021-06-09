@@ -3,10 +3,6 @@ layout: post
 title: Fonti Leche En El Culo
 subtitle: Clara Esta Re Buena
 comments: true
-description: ""
-cover-img: ""
-thumbnail-img: ""
-share-img: ""
 tags: [Fonti, Gordo, Teton, Leche, Clara]
 ---
 
