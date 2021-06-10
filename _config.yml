@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Y1sak Website
+title: Home
 
 # Your name to show in the footer
 author: Benjamin Ruiz
@@ -14,9 +14,11 @@ author: Benjamin Ruiz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Home Page: "https://Y1sak.github.io"
+  Sobre Mi: "aboutme"
+  Afiliados:
+    - Twitch: "https://www.twitch.tv"
+    - Logitech: "https://www.logitech.com"
+    - PornHub: "https://www.pornhub.com"
 
 # --- Logo --- #
 
@@ -38,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "benjaminruizmonti@gmail.com"
-  facebook: beenjaruiz
+#  facebook: yourname
   github: Y1sak
   twitter: beenjaruiz
-  patreon: beenjaruiz
-  youtube: c/beenjaruiz
+#  patreon: yourname
+#  youtube: c/yourname
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
